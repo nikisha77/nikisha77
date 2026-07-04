@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nikisha 
+# Hi ! 👋 I'm Nikisha 
 
 
 ## 📫 Connect With Me
