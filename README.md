@@ -63,7 +63,7 @@ It usually refreshes daily via the scheduled workflow.
 
 ### 🧠 SKILL TREE — AI / ML ARSENAL
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -72,13 +72,13 @@ It usually refreshes daily via the scheduled workflow.
   <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge&logo=brainly&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-00CED1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
-**LANGUAGES & CORE**
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -86,7 +86,7 @@ It usually refreshes daily via the scheduled workflow.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-**TOOLS & PLATFORMS**
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -111,6 +111,7 @@ It usually refreshes daily via the scheduled workflow.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700" width="48%" />
 </p>
+
 ---
 
 ### 📡 CONNECT WITH PLAYER ONE
