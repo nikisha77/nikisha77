@@ -127,6 +127,3 @@ It usually refreshes daily via the scheduled workflow.
   <img src="https://img.shields.io/badge/GAME%20OVER-INSERT%20COIN%20TO%20CONTINUE-black?style=for-the-badge&labelColor=FFD700&color=000000" />
 </p>
 
-<p align="center">
-  <i>Thanks for visiting my profile — press ⭐ to continue!</i>
-</p>
