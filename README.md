@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="420" alt="pacman eating dots">
 </p>
 
-<h1 align="center">🕹️ NIKISHA.exe — AI/ML ENGINEER</h1>
+<h1 align="center">AI/ML ENGINEER</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-PLAYER%20ONE-FFD700?style=for-the-badge&labelColor=000000" />
