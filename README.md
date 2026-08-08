@@ -31,7 +31,6 @@
 > CLASS: AI / ML Engineer
 > QUEST: Build intelligent systems that actually ship
 > SPECIAL MOVE: Turning messy data into working models
-> CURRENT LEVEL: Always leveling up
 > MOTTO: "Every bug is just an unbeaten boss."
 ```
 
