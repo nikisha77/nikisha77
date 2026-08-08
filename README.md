@@ -111,18 +111,6 @@ It usually refreshes daily via the scheduled workflow.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikisha77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700" width="48%" />
 </p>
-
----
-
-### 🚀 FEATURED QUESTS (PROJECTS)
-
-> Swap these in with your real repos — format kept ready to edit.
-
-<p align="center">
-  <a href="https://github.com/nikisha77"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nikisha77&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700" /></a>
-  <a href="https://github.com/nikisha77"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nikisha77&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700" /></a>
-</p>
-
 ---
 
 ### 📡 CONNECT WITH PLAYER ONE
