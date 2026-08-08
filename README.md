@@ -36,7 +36,7 @@
 
 - 🔭 Currently building and experimenting with **Agentic AI** systems and LLM-powered apps
 - 🌱 Always upskilling in **Machine Learning**, **Deep Learning**, and **Data Analysis**
-- 🎯 Interested in turning research into real, deployable products
+- 🎯 Interested in  research 
 - ⚡ Fun fact: I debug faster than Pac-Man dodges ghosts
 
 ---
