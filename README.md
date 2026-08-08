@@ -41,23 +41,11 @@
 
 ---
 
-### 🎮 PAC-MAN CONTRIBUTION GRAPH
+### 🎮 My CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikisha77/nikisha77/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" width="100%">
 </p>
-
-<!--
-⚠️ SETUP NOTE (remove this comment once done):
-This animated graph is generated automatically by a GitHub Action, not a static image.
-Steps to activate it:
-1. Create a repo named exactly "nikisha77" (must match your username) — this is your special GitHub profile repo.
-2. Put this README.md as the repo's README.
-3. Add a workflow file at .github/workflows/pacman.yml (content provided separately below).
-4. In repo Settings → Actions → General, enable "Read and write permissions" for GITHUB_TOKEN.
-5. Push a commit — the action runs and generates an "output" branch with the SVG shown above.
-It usually refreshes daily via the scheduled workflow.
--->
 
 ---
 
